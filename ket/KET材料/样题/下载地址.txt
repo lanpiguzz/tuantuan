@@ -1,0 +1,17 @@
+# KET 官方样题 / 听力音频 · 下载地址
+
+> 仓库因单文件 5MB 限制未直接入库大文件，这里改为保存官方**下载地址**，需要时自行下载即可（均为剑桥官网公开免费资源）。
+
+## 1. 样题包 zip（含听力音频 mp3）
+https://www.cambridgeenglish.org/Images/504343-a2-key-for-schools-sample-tests.zip
+
+- 大小约 23 MB，下载解压后包含全部样题 PDF + **`a2-key-for-schools-listening-sample-test.mp3`**（即本仓库 `ket/KET材料/样题/` 下因超限被跳过、未入库的那个听力音频文件）。
+- 直接等同于仓库里 `a2-key-for-schools-sample-tests.zip` 的来源，重新下载即可补全。
+
+## 2. 官方独立听力音频 mp3（额外练习用）
+https://www.cambridgeenglish.org/Images/506891-a2-key-for-schools-handbook-for-teachers-listening-audio-files.mp3
+
+- 大小约 11.4 MB，剑桥官方《Handbook for teachers》配套的听力音频，可作为样题之外的额外听力练习素材。
+
+## 3. 总入口（官网准备页，可下载最新版样题/词汇表/手册）
+https://www.cambridgeenglish.org/exams-and-tests/key/preparation/index.aspx
