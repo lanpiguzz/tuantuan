@@ -1,0 +1,481 @@
+able	adj	able
+accommodation	n	accommodation
+act	v	act
+action	adj	action
+activity	n	activity
+ad	n	ad
+add	v	add
+address	n	address
+advanced	adj	advanced
+adventure	n	adventure
+advertisement	n	advertisement
+advice	n	advice
+aeroplane	n	aeroplane
+aged	adj	aged
+agree	v	agree
+air	n	air
+album	n	album
+allow	v	allow
+alone	adj & adv	alone
+amazed	adj	amazed
+apartment	n	apartment
+apartment building	n	apartment building
+area	n	area
+article	n	article
+assistant	n	assistant
+attractive	adj	attractive
+available	adj	available
+awesome	adj	awesome
+bake	v	bake
+ball	n	ball
+barbecue/barbeque	n	barbecue/barbeque
+bathing suit	n	bathing suit
+bathtub	n	bathtub
+beetle	n	beetle
+begin	v	begin
+beginner	n	beginner
+beginning	n	beginning
+best	adj & adv	best
+better	adj & adv	better
+bin	n	bin
+birth	n	birth
+bit	n & adv	bit
+block	n	block
+blog	n	blog
+blouse	n	blouse
+board game	n	board game
+boil	v	boil
+boiled	adj	boiled
+bookshelf	n	bookshelf
+born	v	born
+bother	v	bother
+bottle	n	bottle
+bottom	n	bottom
+box	n	box
+boyfriend	n	boyfriend
+bracelet	n	bracelet
+break down	phr v	break down
+brilliant	adj	brilliant
+bring back	v	bring back
+build	v	build
+burger	n	burger
+businessman	n	businessman
+businesswoman	n	businesswoman
+business person	n	business person
+cabinet	n	cabinet
+cafeteria	n	cafeteria
+camp	v	camp
+case	n	case
+cd	n	CD
+cd player	n	CD player
+cell phone	n	cell phone
+celebrate	v	celebrate
+celebrity	n	celebrity
+centre/center	n	centre/center
+century	n	century
+cereal	n	cereal
+chain	n	chain
+channel	n	channel
+chatroom	n	chatroom
+check	v	check
+cheque	n	cheque
+chilli	n	chilli
+circle	n	circle
+city centre	n	city centre
+class	n	class
+classical	adj	classical
+cleaner	n	cleaner
+clear	adj	clear
+closed	adj	closed
+closet	n	closet
+colour	n & v	colour
+come	v	come
+come back	v	come back
+comedy	n	comedy
+competition	n	competition
+complete	v	complete
+contact	n & v	contact
+continue	v	continue
+conversation	n	conversation
+cooker	n	cooker
+cooking	n	cooking
+cover	v &n	cover
+creature	n	creature
+cricket	n	cricket
+cross	n & v	cross
+crowd	n	crowd
+crowded	adj	crowded
+curry	n	curry
+cycle	v	cycle
+dad	n	dad
+dance	n & v	dance
+dead	adj	dead
+dear	adj	dear
+degree	n	degree
+delayed	adj	delayed
+deliver	v	deliver
+department	n	department
+design	v	design
+details	n	details
+die	v	die
+difference	n	difference
+digital camera	n	digital camera
+dinosaur	n	dinosaur
+diploma	n	diploma
+directions	n	directions
+disco	n	disco
+discover	v	discover
+dive	v	dive
+dot	n	dot
+dr	n	Dr
+dream	n & v	dream
+dressed	adj	dressed
+drop	v	drop
+dvd	n	DVD
+dvd player	n	DVD player
+earn	v	earn
+electric	adj	electric
+electricity	n	electricity
+end	v & n	end
+enter	v	enter
+envelope	n	envelope
+equipment	n	equipment
+euro	n	euro
+event	n	event
+examination/exam	n	examination/exam
+example	n	example
+exciting	adj	exciting
+exhibition	n	exhibition
+experiment	n	experiment
+explore	v	explore
+explorer	n	explorer
+extinct	adj	extinct
+extra	adj	extra
+fact	n	fact
+fail	v	fail
+fair	adj	fair
+fall over	phr v	fall over
+fantastic	adj	fantastic
+fashion	n	fashion
+fast food	n	fast food
+feelings	n	feelings
+fill	v	fill
+fill in	phr v	fill in
+final	adj	final
+find out	phr v	find out
+fine	adj	fine
+first name	n	first name
+fix	v	fix
+foggy	adj	foggy
+follow	v	follow
+food	n	food
+football player	n	football player
+footballer	n	footballer
+for sale	n	for sale
+form	n	form
+fried	adj	fried
+frightened	adj	frightened
+front	n	front
+fruit	n	fruit
+fun	adj & n	fun
+furniture	n	furniture
+further	adj	further
+future	n	future
+get back	v	get back
+get fit	v	get fit
+get married	v	get married
+get off	phr v	get off
+get on	phr v	get on
+get up	phr v	get up
+girlfriend	n	girlfriend
+give back	v	give back
+give somebody a call/ring	v	give somebody a call/ring
+go	v	go
+golden	adj	golden
+go out	phr v	go out
+grandchild	n	grandchild
+granddaughter	n	granddaughter
+grandma	n	grandma
+grandpa	n	grandpa
+grandparent	n	grandparent
+grandson	n	grandson
+granny	n	granny
+grilled	adj	grilled
+group	n	group
+grow up	phr v	grow up
+guess	v	guess
+guest-house	n	guest-house
+guidebook	n	guidebook
+guy	n	guy
+half-price	adj	half-price
+harbour	n	harbour
+heating	n	heating
+helpful	adj	helpful
+hip hop	n	hip hop
+hippo	n	hippo
+hoodie	n	hoodie
+hope	v	hope
+horror	adj	horror
+housewife	n	housewife
+hurry	v	hurry
+hurt	v	hurt
+ice skating	n	ice skating
+id	n	ID
+id card	n	ID card
+idea	n	idea
+identification	n	identification
+ill	adj	ill
+impossible	adj	impossible
+improve	v	improve
+include	v	include
+indoor	adj	indoor
+information	n	information
+ingredient	n	ingredient
+instructions	n pl	instructions
+instrument	n	instrument
+interested	adj	interested
+invention	n	invention
+it	n	IT
+jazz	n	jazz
+jellyfish	n	jellyfish
+join	v	join
+jumper	n	jumper
+king	n	king
+kit	n	kit
+kitten	n	kitten
+know	v	know
+latest	adj	latest
+left-hand	adj	left-hand
+length	n	length
+letter	n	letter
+level	n	level
+licence	n	licence
+lie down	phr v	lie down
+life	n	life
+line	n	line
+list	n	list
+live	v	live
+lizard	n	lizard
+local	adj	local
+look after	phr v	look after
+look at	phr v	look at
+look for	phr v	look for
+look out	phr v	look out
+lots / a lot	n	lots / a lot
+lunchtime	n	lunchtime
+mad	adj	mad
+mail	n	mail
+main course	n	main course
+make-up	n	make-up
+matter	n & v	matter
+mean	v	mean
+memory	n	memory
+metal	n & adj	metal
+microphone	n	microphone
+midday	n	midday
+middle	n	middle
+mind	v	mind
+mineral water	n	mineral water
+mix	v	mix
+model	n	model
+moment	n	moment
+monthly	adj & adv	monthly
+mr	n	Mr
+mrs	n	Mrs
+ms	n	Ms
+mug	n	mug
+musical	adj	musical
+name	n	name
+national	adj	national
+nature	n	nature
+neck	n	neck
+next	adj & adv	next
+noise	n	noise
+normal	adj	normal
+occupation	n	occupation
+octopus	n	octopus
+olympic	adj	Olympic
+omelette	n	omelette
+only	adv & adj	only
+opera	n	opera
+opinion	n	opinion
+outdoor	adj	outdoor
+own	adj	own
+painter	n	painter
+pale	adj	pale
+paragraph	n	paragraph
+part	n	part
+partner	n	partner
+pass	v	pass
+pence	n	pence
+pencil case	n	pencil case
+penfriend	n	penfriend
+perfect	adj	perfect
+pharmacy	n	pharmacy
+pick up	phr v	pick up
+piece	n	piece
+pity	n	pity
+plan	n & v	plan
+plastic	n & adj	plastic
+play	v & n	play
+pleasant	adj	pleasant
+pleased	adj	pleased
+point	v	point
+polar bear	n	polar bear
+police car	n	police car
+poor thing/you	adj	poor thing/you
+pop	n	pop
+possible	adj	possible
+post	v & n	post
+prefer / would prefer	v	prefer / would prefer
+puppy	n	puppy
+put on	phr v	put on
+queen	n	queen
+rainforest	n	rainforest
+rap	n	rap
+reading	n	reading
+reason	n	reason
+record	v	record
+refrigerator	n	refrigerator
+relaxing	adj	relaxing
+rent	v	rent
+repair	v	repair
+return	n & v	return
+review	n	review
+riding	n	riding
+right hand	adj	right hand
+roast	v & adj	roast
+room	n	room
+roundabout	n	roundabout
+rubbish	unc n	rubbish
+rugby	n	rugby
+runner	n	runner
+sauce	n	sauce
+scary	adj	scary
+schoolchild	n	schoolchild
+scooter	n	scooter
+selfie	n	selfie
+sentence	n	sentence
+serve	v	serve
+set	n	set
+shame	n	shame
+shampoo	n & v	shampoo
+shopper	n	shopper
+shopping centre	n	shopping centre
+shorts	n pl	shorts
+shut	v	shut
+side	n	side
+sign	n	sign
+simple	adj	simple
+singing	n	singing
+sit down	phr v	sit down
+site	n	site
+sitting room	n	sitting room
+skate	v	skate
+skateboarding	n	skateboarding
+ski	v	ski
+slice	n	slice
+smoking	n	smoking
+snail	n	snail
+snowboard	n	snowboard
+snowboarding	n	snowboarding
+soccer	n	soccer
+social media	n	social media
+sort	n	sort
+sound	v	sound
+space	n	space
+spare	adj	spare
+sport	n	sport
+sports centre	n	sports centre
+stay	v	stay
+steal	v	steal
+stomach ache	n	stomach ache
+striped	adj	striped
+stripes	n	stripes
+studies	n pl	studies
+stuff	n	stuff
+success	n	success
+successful	adj	successful
+supper	n	supper
+suppose	v	suppose
+sure	adj	sure
+surf	v	surf
+surfboard	n	surfboard
+surfboarding	n	surfboarding
+surname	n	surname
+surprise	n	surprise
+surprising	adj	surprising
+sweet	n & adj	sweet
+swimming pool	n	swimming pool
+take off	phr v	take off
+take part	v	take part
+tasty	adj	tasty
+teach	v	teach
+teenager	n	teenager
+telephone	n & v	telephone
+temperature	n	temperature
+tennis player	n	tennis player
+text message	n	text message
+thing	n	thing
+think	v	think
+thunderstorm	n	thunderstorm
+tidy	adj & v	tidy
+tidy up	v	tidy up
+tie	n	tie
+tights	n pl	tights
+title	n	title
+toast	n	toast
+toe	n	toe
+toothache	n	toothache
+toothbrush	n	toothbrush
+top	n	top
+topic	n	topic
+total	adj & n	total
+tour guide	n	tour guide
+tourist information centre	n	tourist information centre
+traffic light	n	traffic light
+tram	n	tram
+transport	n	transport
+true	adj	true
+turn off	phr v	turn off
+turn on	phr v	turn on
+understand	v	understand
+unfortunately	adj	unfortunately
+unhappy	n	unhappy
+unusual	adj	unusual
+upload	v	upload
+usual	adj	usual
+variety	n	variety
+various	adj	various
+vegetable	n	vegetable
+video game	n	video game
+view	n	view
+visitor	n	visitor
+vocabulary	n	vocabulary
+wake up	phr v	wake up
+walking	n	walking
+want	v	want
+washing machine	n	washing machine
+washing-up	n	washing-up
+wash up	phr v	wash up
+web	n	web
+web page	n	web page
+weekday	n	weekday
+weekly	adj & adv	weekly
+well	adv & adj	well
+well known	adj	well known
+whole	adj & n	whole
+wifi	n	wifi
+wild	adj	wild
+wildlife	n	wildlife
+windsurfing	n	windsurfing
+wood	n	wood
+wooden	adj	wooden
+work out	phr v	work out
+working hours	n	working hours
+worry	v	worry
+worse	adj	worse
+worst	adj	worst
+write down	phr v	write down
+writer	n	writer
+writing	n	writing

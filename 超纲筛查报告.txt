@@ -1,0 +1,55 @@
+KET 词汇超纲筛查报告
+基准：剑桥官方《A2 Key & A2 Key for Schools Vocabulary List》2025-08 版
+说明：官方表首页声明其不穷尽（完整词表边界见 Handbook 的 Language Specifications）。
+      因此“未列于官方主词表”≠“超纲”。
+
+你提供的文档：
+  · KET主题词汇表.docx（精选 324 词）—— 命中官方表 96%，仅 10 个未在官方主词表
+  · KET主题词汇表2.docx（全量 1080 词）—— 命中 67% + 22 个官方举例国家 + 328 个未在官方主词表
+  · （KET词汇补遗256 为我按官方表生成，100% 在纲内，不计入你给的文档）
+
+未在官方主词表的词共 338 个，分级如下：
+  · A2 基础词 268 个（官方表只是没逐条枚举，属考试认可范围）
+  · B1 选学词 70 个（偏抽象/学术，二年级可暂缓，但绝非超纲）
+  · B2+ / 真正超纲词：0 个
+
+【A2 基础词按主题】
+
+数字与数量（36）
+  eight、eighteen、eighth、eighty、either、fifteen、fifth、fifty、five、forty、four、fourteen、fourth、hundred、neither、nine、nineteen、ninety、ninth、seven、seventeen、seventh、seventy、six、sixteen、sixth、sixty、ten、tenth、thirteen、thirty、thousand、three、twelve、twenty、two
+
+身体部位（16）
+  ankle、bone、cheek、chest、chin、elbow、feather、horn、knee、moustache、muscle、shoulder、skin、throat、thumb、wrist
+
+动物（13）
+  ant、bull、crab、deer、fox、goose、hamster、hen、owl、rat、seal、wolf、worm
+
+食物与饮料（16）
+  bacon、beef、beer、cabbage、cherry、cucumber、flour、ham、hamburger、lettuce、noodle、pea、peach、peanut、pineapple、wine
+
+服装与外形（11）
+  bald、blonde、collar、curly、cute、handsome、pyjamas、sandal、sleeve、slipper、wavy
+
+职业与人物（17）
+  baker、barber、builder、butcher、cashier、electrician、guard、hairdresser、lawyer、librarian、plumber、postman、referee、shopkeeper、soldier、stranger、vet
+
+家居与日常物品（38）
+  alarm、bandage、basket、bucket、button、cable、cage、calculator、candle、chalk、charger、coin、crayon、cushion、flag、fountain、glue、helmet、kettle、microwave、pan、parcel、pill、plug、pot、puppet、sharpener、smartphone、socket、sticker、stone、tap、tower、trolley、twin、van、wire、zip
+
+场所与地点（9）
+  chemist's、church、corridor、escalator、mall、pavement、pub、seaside、temple
+
+天气与自然（17）
+  breeze、cave、cliff、earth、earthquake、flood、freeze、frost、icy、jungle、lightning、mist、rainbow、soil、stream、thunder、valley
+
+运动与活动（8）
+  boxing、cruise、ferry、gymnastics、hiking、jogging、karate、relay
+
+常见动词/形容词(基础)（47）
+  active、afford、annoyed、backwards、bite、calm、cheer、cheerful、common、count、craft、crash、delete、enjoyable、forwards、generous、gentle、habit、honest、hug、hunt、iron、land、lonely、loose、magic、narrow、press、proud、rescue、rude、safety、silent、skill、smile、sore、speed、strict、tip、touch、towards、track、trick、warn、wave、weak、whether
+
+其余 A2 词（40）
+  alphabet、bakery、balcony、bargain、bench、brake、branch、colourful、cotton、cough、daytime、eleven、fare、fence、fever、firefighter、firework、flute、height、illness、leaf、medal、nap、overseas、penalty、pitch、poem、pond、queue、robot、sand、shocked、sneeze、support、thick、thief、third、ugly、vacation、weight
+
+【B1 偏难选学词】
+  abroad、actress、although、appearance、apply、architect、athletics、attend、audience、avoid、budget、captain、champion、climate、collection、communicate、communication、compare、congratulations、connect、data、designer、device、diet、disease、duty、education、elegant、embarrassed、emergency、emotion、escape、essay、figure、forecast、injection、injury、interview、introduce、introduction、leisure、marathon、monument、mood、network、novel、operation、outgoing、palace、patient、pollution、presentation、protect、qualification、relative、report、routine、salary、schedule、search、shift、signal、souvenir、statue、stressed、translate、translator、vehicle、wage、warning

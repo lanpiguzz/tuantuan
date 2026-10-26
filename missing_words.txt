@@ -1,0 +1,565 @@
+a few	det, adj & pron
+able	adj
+about	adv & prep
+accommodation	n
+act	v
+action	adj
+activity	n
+actually	adv
+ad	n
+add	v
+address	n
+advanced	adj
+adventure	n
+advertisement	n
+advice	n
+aeroplane	n
+afterwards	adv
+again	adv
+aged	adj
+agree	v
+air	n
+album	n
+all	adv, det & pron
+allow	v
+all right/alright	adj, adv & exclam
+almost	adv
+alone	adj & adv
+already	adv
+alright	adj, adv & exclam
+also	adv
+amazed	adj
+anymore	adv
+anyway	adv
+anywhere	adv
+apartment	n
+apartment building	n
+area	n
+article	n
+as	conj & adv & prep
+assistant	n
+as well	adv
+at all	prep phr
+attractive	adj
+available	adj
+away	adv
+awesome	adj
+badly	adv
+bake	v
+ball	n
+barbecue/barbeque	n
+bathing suit	n
+bathtub	n
+be	av & v
+because of	prep phr
+beetle	n
+begin	v
+beginner	n
+beginning	n
+best	adj & adv
+better	adj & adv
+bin	n
+birth	n
+bit	n & adv
+block	n
+blog	n
+blouse	n
+board game	n
+boil	v
+boiled	adj
+bookshelf	n
+born	v
+bother	v
+bottle	n
+bottom	n
+box	n
+boyfriend	n
+bracelet	n
+break down	phr v
+brilliant	adj
+bring back	v
+build	v
+burger	n
+businessman	n
+businesswoman	n
+business person	n
+by accident	prep phr
+by the way	prep phr
+by post	prep phr
+cabinet	n
+cafeteria	n
+camp	v
+can	n & mv
+carefully	adv
+case	n
+CD	n
+CD player	n
+cell phone	n
+celebrate	v
+celebrity	n
+centre/center	n
+century	n
+cereal	n
+certainly	adv
+chain	n
+channel	n
+chatroom	n
+check	v
+cheque	n
+chilli	n
+circle	n
+city centre	n
+class	n
+classical	adj
+cleaner	n
+clear	adj
+clearly	adv
+close to	prep phr
+closed	adj
+closet	n
+colour	n & v
+come	v
+come back	v
+comedy	n
+competition	n
+complete	v
+contact	n & v
+continue	v
+conversation	n
+cooker	n
+cooking	n
+cover	v &n
+creature	n
+cricket	n
+cross	n & v
+crowd	n
+crowded	adj
+curry	n
+cycle	v
+dad	n
+dance	n & v
+dead	adj
+dear	adj
+degree	n
+delayed	adj
+deliver	v
+department	n
+design	v
+details	n
+die	v
+difference	n
+digital camera	n
+dinosaur	n
+diploma	n
+directions	n
+disco	n
+discover	v
+dive	v
+do	av & v
+dot	n
+Dr	n
+dream	n & v
+dressed	adj
+drop	v
+DVD	n
+DVD player	n
+earn	v
+easily	adv
+electric	adj
+electricity	n
+else	adv
+end	v & n
+enough	adv, det & pron
+enter	v
+envelope	n
+equipment	n
+especially	adv
+euro	n
+even	adv
+event	n
+ever	adv
+exactly	adv
+examination/exam	n
+example	n
+exciting	adj
+exhibition	n
+experiment	n
+explore	v
+explorer	n
+extinct	adj
+extra	adj
+fact	n
+fail	v
+fair	adj
+fall over	phr v
+fantastic	adj
+fashion	n
+fast food	n
+feelings	n
+few	det & adj
+fill	v
+fill in	phr v
+final	adj
+finally	adv
+find out	phr v
+fine	adj
+first name	n
+first of all	adv
+fix	v
+foggy	adj
+follow	v
+food	n
+football player	n
+footballer	n
+for sale	n
+form	n
+fried	adj
+frightened	adj
+front	n
+fruit	n
+fun	adj & n
+furniture	n
+further	adj
+future	n
+get back	v
+get fit	v
+get married	v
+get off	phr v
+get on	phr v
+get up	phr v
+girlfriend	n
+give back	v
+give somebody a call/ring	v
+go	v
+golden	adj
+go out	phr v
+grandchild	n
+granddaughter	n
+grandma	n
+grandpa	n
+grandparent	n
+grandson	n
+granny	n
+grilled	adj
+group	n
+grow up	phr v
+guess	v
+guest-house	n
+guidebook	n
+guy	n
+half-price	adj
+harbour	n
+have	av & v
+heating	n
+helpful	adj
+hip hop	n
+hippo	n
+hoodie	n
+hope	v
+horror	adj
+housewife	n
+hurry	v
+hurt	v
+ice skating	n
+ID	n
+ID card	n
+idea	n
+identification	n
+ill	adj
+immediately	adv
+impossible	adj
+improve	v
+in	adv & prep
+include	v
+indoor	adj
+indoors	adv
+information	n
+in front of	prep phr
+ingredient	n
+instead	adv
+instructions	n pl
+instrument	n
+interested	adj
+invention	n
+IT	n
+jazz	n
+jellyfish	n
+join	v
+jumper	n
+just	adv
+king	n
+kit	n
+kitten	n
+know	v
+last	adj & det
+later	adv
+latest	adj
+least	adv
+left-hand	adj
+length	n
+less	adj, det & pron
+letter	n
+level	n
+licence	n
+lie down	phr v
+life	n
+like	adv, prep & v
+line	n
+list	n
+live	v
+lizard	n
+local	adj
+look after	phr v
+look at	phr v
+look for	phr v
+look out	phr v
+lots / a lot	n
+luckily	adv
+lunchtime	n
+mad	adj
+mail	n
+main course	n
+make-up	n
+matter	n & v
+maybe	adv
+mean	v
+memory	n
+metal	n & adj
+microphone	n
+midday	n
+middle	n
+mind	v
+mineral water	n
+mix	v
+model	n
+moment	n
+monthly	adj & adv
+more	adj, adv, det & pron
+most	adj, adv, det & pron
+Mr	n
+Mrs	n
+Ms	n
+much	adj, adv, det & pron
+mug	n
+musical	adj
+name	n
+national	adj
+nature	n
+nearly	adv
+neck	n
+never	adv
+next	adj & adv
+no	adv, det & pron
+noise	n
+normal	adj
+not	adv
+occupation	n
+octopus	n
+off	adv
+often	adv
+Olympic	adj
+omelette	n
+on	prep & adv
+once	adv
+only	adv & adj
+opera	n
+opinion	n
+out	adv
+outdoor	adj
+outdoors	adv
+own	adj
+painter	n
+pale	adj
+paragraph	n
+part	n
+partner	n
+pass	v
+pence	n
+pencil case	n
+penfriend	n
+perfect	adj
+perhaps	adv
+pharmacy	n
+pick up	phr v
+piece	n
+pity	n
+plan	n & v
+plastic	n & adj
+play	v & n
+pleasant	adj
+pleased	adj
+point	v
+polar bear	n
+police car	n
+poor thing/you	adj
+pop	n
+possible	adj
+possibly	adv
+post	v & n
+prefer / would prefer	v
+probably	adv
+puppy	n
+put on	phr v
+queen	n
+quickly	adv
+quite	adv
+rainforest	n
+rap	n
+reading	n
+really	adv
+reason	n
+recently	adv
+record	v
+refrigerator	n
+relaxing	adj
+rent	v
+repair	v
+return	n & v
+review	n
+riding	n
+right hand	adj
+roast	v & adj
+room	n
+roundabout	n
+rubbish	unc n
+rugby	n
+runner	n
+sauce	n
+scary	adj
+schoolchild	n
+scooter	n
+selfie	n
+sentence	n
+serve	v
+set	n
+shame	n
+shampoo	n & v
+shopper	n
+shopping centre	n
+shorts	n pl
+shut	v
+side	n
+sign	n
+simple	adj
+singing	n
+sit down	phr v
+site	n
+sitting room	n
+skate	v
+skateboarding	n
+ski	v
+slice	n
+slowly	adv
+smoking	n
+snail	n
+snowboard	n
+snowboarding	n
+soccer	n
+social media	n
+sort	n
+sound	v
+space	n
+spare	adj
+sport	n
+sports centre	n
+stay	v
+steal	v
+still	adv
+stomach ache	n
+striped	adj
+stripes	n
+studies	n pl
+stuff	n
+success	n
+successful	adj
+suddenly	adv
+supper	n
+suppose	v
+sure	adj
+surf	v
+surfboard	n
+surfboarding	n
+surname	n
+surprise	n
+surprising	adj
+sweet	n & adj
+swimming pool	n
+take off	phr v
+take part	v
+tasty	adj
+teach	v
+teenager	n
+telephone	n & v
+temperature	n
+tennis player	n
+text message	n
+then	adv
+thing	n
+think	v
+thunderstorm	n
+tidy	adj & v
+tidy up	v
+tie	n
+tights	n pl
+title	n
+toast	n
+toe	n
+together	adv
+too	adv
+toothache	n
+toothbrush	n
+top	n
+topic	n
+total	adj & n
+tour guide	n
+tourist information centre	n
+traffic light	n
+tram	n
+transport	n
+true	adj
+turn off	phr v
+turn on	phr v
+twice	adv
+understand	v
+unfortunately	adj
+unhappy	n
+unusual	adj
+upload	v
+usual	adj
+variety	n
+various	adj
+vegetable	n
+very	adv
+video game	n
+view	n
+visitor	n
+vocabulary	n
+wake up	phr v
+walking	n
+want	v
+washing machine	n
+washing-up	n
+wash up	phr v
+web	n
+web page	n
+weekday	n
+weekly	adj & adv
+well	adv & adj
+well known	adj
+whole	adj & n
+wifi	n
+wild	adj
+wildlife	n
+windsurfing	n
+wood	n
+wooden	adj
+work out	phr v
+working hours	n
+worry	v
+worse	adj
+worst	adj
+write down	phr v
+writer	n
+writing	n
+yes	adv
+yet	adv
